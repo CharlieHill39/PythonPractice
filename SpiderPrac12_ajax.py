@@ -1,6 +1,6 @@
 '''
 爬取豆瓣电影数据
-了解ajax的基本爬去方式
+了解ajax的基本爬取方式
 
 '''
 from urllib import request
